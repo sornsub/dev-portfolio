@@ -8,12 +8,7 @@
             "icon" : {
                 "src": "images/education/lorem-ipsum.png"
             }
-        },
-        {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
         }
+
     ]
 }
