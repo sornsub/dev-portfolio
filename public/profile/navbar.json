@@ -14,20 +14,20 @@
             "href": "/about"
         },
         {
-            "title": "Skills",
-            "href": "/skills"
-        },
-        {
-            "title": "Education",
-            "href": "/education"
-        },
-        {
             "title": "Experience",
             "href": "/experience"
         },
         {
+            "title": "Skills",
+            "href": "/skills"
+        },
+        {
             "title": "Projects",
             "href": "/projects"
+        },
+        {
+            "title": "Education",
+            "href": "/education"
         },
         {
             "title": "Resume",
