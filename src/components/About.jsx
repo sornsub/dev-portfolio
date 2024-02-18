@@ -8,20 +8,22 @@ import endpoints from '../constants/endpoints';
 import FallbackSpinner from './FallbackSpinner';
 
 const styles = {
-  introTextContainer: {
-    margin: 10,
-    flexDirection: 'column',
-    whiteSpace: 'pre-wrap',
-    textAlign: 'left',
-    fontSize: '1.2em',
-    fontWeight: 500,
-  },
   introImageContainer: {
     margin: 10,
     justifyContent: 'center',
     alignItems: 'center',
     display: 'flex',
   },
+  introTextContainer: {
+    margin: 100,
+    padding: 10,
+    flexDirection: 'column',
+    whiteSpace: 'pre-wrap',
+    textAlign: 'center',
+    fontSize: '1.4em',
+    fontWeight: 600,
+  },
+
 };
 
 function About(props) {

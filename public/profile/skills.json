@@ -1,63 +1,90 @@
-{
-    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+{  
     "skills": [{
      
             "title": "Languages & Databases",
             "items" : [
-     
+
                 {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
+                    "icon": "images/skills/mongodb.png",
+                    "title": "MongoDB"
                 },
                 {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
+                    "icon": "images/skills/sqlite.jpeg",
+                    "title": "SQLite"
                 },
                 {
                     "icon": "images/skills/js.png",
                     "title": "JavaScript"
                 },
                 {
-                    "icon": "images/skills/python.png",
-                    "title": "Python"
-                },
-                {
-                    "icon": "images/skills/mysql.png",
-                    "title": "MySQL"
-                }
-        ]},
-        {
-            "title": "Frameworks & Technologies",
-            "items" : [
-                {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
-                },
-                {
-                    "icon": "images/skills/react.png",
-                    "title": "React"
+                    "icon": "images/skills/mui.png",
+                    "title": "MUI"
                 },
                 {
                     "icon": "images/skills/nodejs.png",
-                    "title": "Nodejs"
-                }
-            ]
-        },
-        {
-            "title" : "Tools & Platforms",
-            "items": [
+                    "title": "Node.JS"
+                },
                 {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
+                    "icon": "images/skills/react.png",
+                    "title": "React.JS"
+                },
+                {
+                    "icon": "images/skills/bootstrap.png",
+                    "title": "Bootstrap"
                 },
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"
                 },
                 {
-                    "icon": "images/skills/docker.png",
-                    "title": "Docker"
+                    "icon": "images/skills/tailwind.png",
+                    "title": "Tailwind"
+                }
+        ]},
+        {
+            "title": "Tools & Technologies",
+            "items" : [
+                {
+                    "icon": "images/skills/hikvision.png",
+                    "title": "CCTV"
+                },
+                {
+                    "icon": "images/skills/grand.jpeg",
+                    "title": "VoIP"
+                },
+                {
+                    "icon": "images/skills/fortinet.png",
+                    "title": "Firewall"
+                },
+                {
+                    "icon": "images/skills/hikvision.png",
+                    "title": "Access Control"
+                },
+                {
+                    "icon": "images/skills/aruba.png",
+                    "title": "Wifi"
+                },
+                {
+                    "icon": "images/skills/fibaro.jpg",
+                    "title": "Homeautomation"
                 }
             ]
-    }
+        },
+        {
+            "title": "Certificated",
+            "items" : [
+                {
+                    "icon": "images/skills/ccna.png",
+                    "title": "CCNA "
+                },
+                {
+                    "icon": "images/skills/ccnsp.png",
+                    "title": "Cyberoam "
+                },
+                {
+                    "icon": "images/skills/Genkx.png",
+                    "title": "GenKX "
+                }
+            ]
+        }    
 ]}

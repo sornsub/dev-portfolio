@@ -2,15 +2,15 @@
     "social": [
         {
             "network" : "linkedin",
-            "href": "https://linkedin.com/"
+            "href": "https://www.linkedin.com/in/sornsub-thongchuphacharapol"
         },
         {
             "network" : "github",
-            "href": "https://github.com/mayankagarwal09"
+            "href": "https://github.com/sornsub"
         },
         {
             "network" : "email",
-            "href": "mailto:test@test.com"
+            "href": "sornsub@gmail.com"
         }
     ]
 }
