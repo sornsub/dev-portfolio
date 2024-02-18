@@ -1,14 +1,19 @@
+
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "2023 - 2024",
+            "cardTitle": "Junior Software Developer Bootcamp",
+            "cardSubtitle":"Generation thailand and KMUTT KX",
             "icon" : {
                 "src": "images/education/lorem-ipsum.png"
             }
+        },
+        {
+            "title": "2006 - 2010",
+            "cardTitle": "B.Engineering Second Class Hons.",
+            "cardSubtitle":"Ramkhamhaeng University",
+            "cardDetailedText": "GPA - 3.40"
         }
-
     ]
 }
